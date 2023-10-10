@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "title": "Jewelry",
+      "vid": "vid1.mp4",
+      "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nobis, qui commodi nulla exercitationem laboriosam fuga fugit dolorem cumque veritatis!"
+    },
+    {
+      "title": "Watches",
+      "vid": "vid2.mp4",
+      "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nobis, qui commodi nulla exercitationem laboriosam fuga fugit dolorem cumque veritatis!"
+    },
+    {
+      "title": "Accessories",
+      "vid": "vid3.mp4",
+      "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nobis, qui commodi nulla exercitationem laboriosam fuga fugit dolorem cumque veritatis!"
+    },
+    {
+      "title": "Gifts",
+      "vid": "vid4.mp4",
+      "txt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis nobis, qui commodi nulla exercitationem laboriosam fuga fugit dolorem cumque veritatis!"
+    }
+  ]
+}
